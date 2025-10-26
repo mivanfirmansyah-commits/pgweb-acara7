@@ -1,5 +1,5 @@
 <?php
-$x = 2;
+$x = 7;
 switch ($x)
 {
 case 1: echo "Angka 1";

@@ -1,6 +1,6 @@
 <?php
 $i=1;
-while($i<=5)
+while($i<=7)
 { echo "Angka " . $i . "<br />";
 $i++;
 }
